@@ -12,7 +12,7 @@
 
 ## Les données (à faire une fois, chacun de son côté)
 
-Les données de M. Attali ne sont **pas mises sur GitHub** (on ne sait pas encore si le dépôt est privé).
+Les données de M. Attali ne sont **pas mises sur GitHub** (car le dépôt est public).
 Chacun doit :
 
 1. créer un dossier `data/` à côté des dossiers `notebooks/` et `resultats/` ;
